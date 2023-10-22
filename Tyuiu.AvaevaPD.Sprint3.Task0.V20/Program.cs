@@ -22,13 +22,13 @@ namespace Tyuiu.AvaevaPD.Sprint3.Task0.V20
             Console.WriteLine("* Выполнила: Аваева Полина Дмитриевна | ИСПБ-23-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Гаписать программу используя цикл for,                                  *");
+            Console.WriteLine("* Написать программу используя цикл for,                                  *");
             Console.WriteLine("* которая вычисляет произведение ряда по формуле, при X = 1               *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("*                                                             *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
@@ -45,7 +45,7 @@ namespace Tyuiu.AvaevaPD.Sprint3.Task0.V20
             Console.WriteLine("* РЕЗУЛЬТАТ :                                                             *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Сумма рада = " + ds.GetCharCount(value,item);
+            Console.WriteLine("Сумма ряда = " + ds.GetCharCount(value,item);
         }
     }
 }
