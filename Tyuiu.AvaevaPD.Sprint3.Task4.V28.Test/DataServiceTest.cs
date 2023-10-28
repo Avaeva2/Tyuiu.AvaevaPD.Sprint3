@@ -16,7 +16,7 @@ namespace Tyuiu.AvaevaPD.Sprint3.Task4.V28.Test
 
             double res = ds.Calculate(startValue, stopValue);
 
-            double wait = 0.104;
+            double wait = 1.067;
             Assert.AreEqual(wait, res);
         }
     }

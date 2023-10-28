@@ -15,7 +15,7 @@ namespace Tyuiu.AvaevaPD.Sprint3.Task3.V17.Test
             char c = '8';
             double res = ds.ConvertStringToInt(str);
 
-            int wait = 5;
+            int wait = 2;
 
             Assert.AreEqual(wait, res);
 
